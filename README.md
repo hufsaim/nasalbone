@@ -3,6 +3,7 @@
 ## background
 
 ## proposed model
+![figure](figure5.png)
 
 ## instructions (inference)
 
