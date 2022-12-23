@@ -12,7 +12,7 @@ Nam, Y., Choi, Y., Kang, J., Seo, M., Heo, S. J., & Lee, M. K. (2022). Diagnosis
 ## instructions (inference)
 - Two lateral views are required as input.
 - You can downlad the model below and test it with your own input.
-- [download](https://github.com/hufsaim/nasalbone/blob/main/README.md)
+- [download](https://hufs365-my.sharepoint.com/:u:/g/personal/yoonhonam_o365_hufs_ac_kr/EWM0WKKmwVlOrXa4RQfURYEBqvhitqFxNiEN_wjfoJrdfA)
 
 ## sample of results
 ![out](gradcam.png)
